@@ -8,7 +8,6 @@ WORKFLOW:
 ![image](images/django_ORM.png)
 3. Serializer & DeSerializer. 
 ![image](images/serial_deserial.png)
-
 4. API's for application
 ![image](images/Manager_list.png)
 ![image](images/project.png)
